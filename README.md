@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="sdet-devops-banner.png"
+  <img src="./sdet-devops-banner.png"
        width="100%"
        alt="SDET and DevOps Banner">
 </p>
