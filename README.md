@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="./sdet-devops-banner.png"
+  <img src="./DevOps%20Automation%20Infinity%20Banner.png"
        width="100%"
        alt="SDET and DevOps Banner">
 </p>
